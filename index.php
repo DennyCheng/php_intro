@@ -4,6 +4,7 @@
     <h1>PHP MAGIC!</h1>
   </head>
   <body>
+    <h1>Data Types</h1>
     <p>
       <?php
         echo"This is a test";

@@ -10,6 +10,7 @@
         echo"This is a test";
         echo"Concatenation"."test";
         echo 2 * 2;
+        echo 2 * 4;
       ?>
     </p>
     <p>
